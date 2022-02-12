@@ -1,6 +1,6 @@
 {
-  "name": "cyrilyc-byte-optimizator",
-  "version": "0.1.0",
+  "name": "cyrillic-byte-optimizer",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

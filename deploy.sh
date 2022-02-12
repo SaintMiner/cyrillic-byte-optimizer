@@ -9,5 +9,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:SaintMiner/cyrilyc-byte-optimizator.git master:gh-pages
+git push -f git@github.com:SaintMiner/cyrillic-byte-optimizer.git master:gh-pages
 cd -
